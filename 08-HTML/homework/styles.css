@@ -1,0 +1,20 @@
+body {
+    background: url(https://www.elmundoeats.com/wp-content/uploads/2019/03/FP-No-knead-Focaccia.jpg);
+}
+img {
+    width: 400px;
+    height: 250px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    background: tomato;
+    border-width: 1em;
+    border-color: black;
+    border-style: solid;
+}
+#spanId {
+    font-size: 18px;
+    margin: 200px;
+}
